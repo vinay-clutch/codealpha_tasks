@@ -19,12 +19,8 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 Clone the repository
 ```
-git clone https://github.com/mohamedsamara/mern-ecommerce.git
+git clone https://github.com/vinay-clutch/codealpha_tasks.git
 ```
-
-```
-docker-compose build
-docker-compose up
 ```
 
 ## Database Seed
